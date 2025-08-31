@@ -1,16 +1,18 @@
 ## Information
 
 <div align="center">
-<a href="https://github.com/nazedev/hitori/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/nazedev/hitori?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/nazedev/hitori/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nazedev/hitori?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/nazedev/hitori/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/nazedev/hitori?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/nazedev/hitori/issues"><img title="Issues" src="https://img.shields.io/github/issues/nazedev/hitori?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/nazedev/hitori/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/nazedev/hitori?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/nazedev/hitori/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/nazedev/hitori?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/nazedev/hitori/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/nazedev/hitori?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/TES/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/xyrootzz123/TES?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/TES/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xyrootzz123/TES?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/TES/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/xyrootzz123/TES?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/TES/issues"><img title="Issues" src="https://img.shields.io/github/issues/xyrootzz123/TES?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/TES/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/xyrootzz123/TES?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/TES/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/xyrootzz123/TES?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/TES/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/xyrootzz123/TES?label=PullRequest&color=red&style=flat-square"></a>
 </div>
 
-This script is created by [Xyroo](https://github.com/xyroo) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By Naze
+This script is created by [Xyroo](https://github.com/xyroo) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library.  
+The script is currently in the development phase (BETA), so there may still be some errors that can be ignored.  
+If errors persist even after debugging, please contact the owner for assistance. ~ By Naze
 
 ## Contributor
 
@@ -23,7 +25,7 @@ This script is created by [Xyroo](https://github.com/xyroo) using Node.js and th
 
 ---
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nazedev/hitori)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xyrootzz123/TES)
 
 #### Heroku Buildpack
 | Build Pack | LINK |
@@ -41,8 +43,8 @@ This script is created by [Xyroo](https://github.com/xyroo) using Node.js and th
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/xyrootzz123/TES
+cd folder
 npm install
 npm update
 ```
@@ -54,10 +56,10 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/xyrootzz123/TES
+cd folder 
 npm install
-```
+
 
 [ RECOMMENDED INSTALL ON TERMUX ]
 ```bash
@@ -77,11 +79,3 @@ node .
 - Support Qr Code
 - Support Pairing Code
 ---
-
-### Features
-| Menu     | Bot | Group | Search | Download | Tools | Ai | Game | Fun | Owner |
-| -------- | --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- |
-| Work     |  ✅  |   ✅   |    ✅    |     ✅     |   ✅   | ✅ |   ✅   |  ✅  |    ✅    |
-
-
-License: [MIT](https://choosealicense.com/licenses/mit/)
